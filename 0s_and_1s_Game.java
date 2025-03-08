@@ -12,7 +12,7 @@
 // [0, 0, 0, 1]
 
 import java.util.*;
-public class Main {
+public class 0s_and_1s_Game {
   public static void main(String[] args) 
   {
 	  Scanner scan = new Scanner(System.in);
