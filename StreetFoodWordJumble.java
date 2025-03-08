@@ -28,7 +28,7 @@
 
 import java.util.*;
 
-public class Main {
+public class StreetFoodWordJumble {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String str1 = scan.next();
